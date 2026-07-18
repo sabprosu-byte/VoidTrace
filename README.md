@@ -1,2 +1,20 @@
 # VoidTrace
 Python tabanlı temel bir güvenlik analiz aracı.
+
+## Özellikler
+- Port Analizi (Port Tarama)
+- Ağ Bilgisi Sorgulama
+- Terminal Tabanlı Arayüz
+
+## Kurulum
+
+Termux veya Linux üzerinde çalıştırmak için:
+
+1. Depoyu klonlayın:
+git clone https://github.com/sabprosu-byte/VoidTrace.git
+
+2. Klasöre gidin:
+cd VoidTrace
+
+3. Aracı çalıştırın:
+python voidtrace.py
