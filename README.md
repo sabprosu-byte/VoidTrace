@@ -5,6 +5,7 @@ Python tabanlı temel bir güvenlik analiz aracı.
 - Port Analizi (Port Tarama)
 - Ağ Bilgisi Sorgulama
 - Terminal Tabanlı Arayüz
+- Target Intelligence (IP Konum ve Servis Sağlayıcı Analizi)
 
 ## Kurulum
 
