@@ -6,6 +6,7 @@ Python tabanlı temel bir güvenlik analiz aracı.
 - Ağ Bilgisi Sorgulama
 - Terminal Tabanlı Arayüz
 - Target Intelligence (IP Konum ve Servis Sağlayıcı Analizi)
+- HTTP Header Analizi
 
 ## Kurulum
 
