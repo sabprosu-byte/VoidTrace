@@ -1,5 +1,6 @@
 # VoidTrace
-Python tabanlı temel bir güvenlik analiz aracı.
+Python tabanlı temel bir güvenlik analiz aracı
+Red Hat / Linux Edition
 
 ## Özellikler
 - Port Analizi (Port Tarama)
