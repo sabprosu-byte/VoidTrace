@@ -9,6 +9,9 @@ Red Hat / Linux Edition
 - Target Intelligence (IP Konum ve Servis Sağlayıcı Analizi)
 - HTTP Header Analizi
 - Antivirüs (Dosya Analiz)
+- (Subnet Recon / Host Discovery)
+- (IP / Domain Bilgi Toplama)
+- (Stress & Latency Injector)
 
 ## Kurulum
 
