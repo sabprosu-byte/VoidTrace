@@ -13,6 +13,7 @@ Red Hat / Linux Edition
 - (IP / Domain Bilgi Toplama)
 - (Stress & Latency Injector)
 - Fsociety Core Protocols & Recon Tools
+- Password Audit Suite (JtR, Hydra, Hashcat)
 
 ## Kurulum
 
