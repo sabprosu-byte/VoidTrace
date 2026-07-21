@@ -12,6 +12,7 @@ Red Hat / Linux Edition
 - (Subnet Recon / Host Discovery)
 - (IP / Domain Bilgi Toplama)
 - (Stress & Latency Injector)
+- Fsociety Core Protocols & Recon Tools
 
 ## Kurulum
 
