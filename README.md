@@ -14,6 +14,7 @@ Red Hat / Linux Edition
 - (Stress & Latency Injector)
 - Fsociety Core Protocols & Recon Tools
 - Password Audit Suite (JtR, Hydra, Hashcat)
+- Ghost Track (Location & Session Recon)
 
 ## Kurulum
 
