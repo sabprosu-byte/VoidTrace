@@ -15,6 +15,7 @@ Red Hat / Linux Edition
 - Fsociety Core Protocols & Recon Tools
 - Password Audit Suite (JtR, Hydra, Hashcat)
 - Ghost Track (Location & Session Recon)
+- IP Kamera Güvenlik Modülü (Özel)
 
 ## Kurulum
 
