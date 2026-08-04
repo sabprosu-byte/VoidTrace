@@ -1,4 +1,5 @@
-![VoidTrace Arayüzü](ekran_goruntusunun_adi.png)
+![VoidTrace Arayüzü](1000435624.jpg)
+
 
 # VoidTrace
 Python tabanlı temel bir güvenlik analiz aracı
