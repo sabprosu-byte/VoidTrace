@@ -1,3 +1,5 @@
+![VoidTrace Arayüzü](ekran_goruntusunun_adi.png)
+
 # VoidTrace
 Python tabanlı temel bir güvenlik analiz aracı
 Red Hat / Linux Edition
